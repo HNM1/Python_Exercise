@@ -11,7 +11,7 @@ while(n>=0):
     num = int(input("Enter a number: "))
     if(num==-1):
         break
-    sum += um
+    sum += num
     avg = sum / count
     print("SUM:",sum)
     print("AVG:",avg)
